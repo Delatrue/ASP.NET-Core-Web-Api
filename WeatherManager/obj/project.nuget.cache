@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJosId0YNqIEH9NWYgRg7xogKIaz7TqFuvkvN8IMdNO3RYUQMIv+YjezFlC6g/h4uxtCkKANPJKt2HkA4pFO5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Note\\source\\repos\\ContosoRecipes\\WeatherManager\\WeatherManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Note\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
