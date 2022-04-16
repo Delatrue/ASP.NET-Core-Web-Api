@@ -1,0 +1,19 @@
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.exe
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.deps.json
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.runtimeconfig.json
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.runtimeconfig.dev.json
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.dll
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\bin\Debug\netcoreapp3.1\MetricsManager 1.0.pdb
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.csproj.AssemblyReference.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.AssemblyInfoInputs.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.AssemblyInfo.cs
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\staticwebassets\MetricsManager 1.0.StaticWebAssets.Manifest.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.RazorTargetAssemblyInfo.cache
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.dll
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.pdb
+C:\Users\Note\source\repos\MetricsManager 1.0\MetricsManager 1.0\obj\Debug\netcoreapp3.1\MetricsManager 1.0.genruntimeconfig.cache
