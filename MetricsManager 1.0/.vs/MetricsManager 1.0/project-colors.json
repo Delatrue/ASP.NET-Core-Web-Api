@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ea52220-6f2b-4580-b06e-51a939ffadb8": {
+      "ProjectGuid": "8ea52220-6f2b-4580-b06e-51a939ffadb8",
+      "DisplayName": "MetricsManager 1.0",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
